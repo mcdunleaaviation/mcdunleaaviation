@@ -1,3 +1,5 @@
+![Image Description](./_a5e40433-5a79-4bd9-ad59-3c95e2ebc970.jfif)
+
 - 👋 Hi, I’m Mark Dunlea
 - 👀 I like planes and data
 - 🌱 I’m currently learning Power BI
